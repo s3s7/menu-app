@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = git@github.com:s3s7/menu-app-front.git
+[submodule "back"]
+	path = back
+	url = git@github.com:s3s7/menu-app-back.git
